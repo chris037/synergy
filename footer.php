@@ -100,7 +100,9 @@
 
                                         <li>
                                             <span class="icon flaticon-worldwide"></span>
-                                            <div class="text">600 W Commonwealth Ave, <br />Ste 146 Los Angeles, CA</div>
+                                            <div class="text">
+                                            600 W Commonwealth Ave, Suite 146 <br/>
+                                            Fullerton CA, 92832</div>
                                         </li>
                                     </ul>
                                 </div>

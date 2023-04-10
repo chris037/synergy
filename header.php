@@ -27,7 +27,14 @@
 
     <!-- Stylesheets -->
     <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="https://xpresswebsolution.com/synergy/css/style.css" rel="stylesheet">
+    <link href="https://xpresswebsolution.com/synergy/css/style-min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/fontawesome-all.css">
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/elegent-icon.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/swiper.css">
+    <link rel="stylesheet" href="css/owl.css">
+    <link rel="stylesheet" href="css/jquery.fancybox.min.css">
     <link href="css/responsive.css" rel="stylesheet">
     <!--Color Switcher Mockup-->
     <link href="css/color-switcher-design.css" rel="stylesheet">
