@@ -62,11 +62,20 @@ $leaders = array(
     
     array(
         "name" => "Gene Ryang",
-        "designation" => "Board of Advisors",
+        "designation" => "Advisor for Real Estate",
         "image" => "images/resource/leader-1.jpg",
         "email" => "",
         "bio" => "Mr. Ryang is a pioneer in the equity market industry in Asia from Hong Kong, Singapore to Korea. He has started his career at WI Carr, HSBC, Deutch Bank, where he was a partner, and he sold his stake and has been and Executive Managing Director for Daewoo Securities responsible for the build out of their multiple divisions and mentoring junior bankers for decades. Later he ran his own private equity and venture fund. "
+    ),
+
+    array(
+        "name" => "Sam Rhee",
+        "designation" => "Advisor",
+        "image" => "images/resource/leader-1.jpg",
+        "email" => "",
+        "bio" => ""
     )
+
    
 );
 

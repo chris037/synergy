@@ -8,7 +8,7 @@
             "contacts" => "Contact Us",
             "knowledge-center" => "Knowledge Center",
             "leadership" => "Leadership",
-            "feedback" => "Feedback",
+            "blog" => "Blog",
             "privacy-policy" => "Privacy Policy"
         ];
         $title = isset($titles[$page]) ? $titles[$page] . " | " . $company_name : $company_name;
@@ -92,7 +92,7 @@
                                         </ul>
                                     </li>
                                     <li class="<?php if ($current_page == 'leadership.php') echo 'current'; ?>"><a href="leadership.php">Leadership</a></li>
-                                    <li class="<?php if ($current_page == 'feedback.php') echo 'current'; ?>"><a href="feedback.php">Feedback</a></li>
+                                    <li class="<?php if ($current_page == 'blog.php') echo 'current'; ?>"><a href="blog.php">Blog</a></li>
                                    
                                     <li class="<?php if ($current_page == 'contacts.php') echo 'current'; ?>"><a href="contacts.php">Contacts</a></li>
                                 </ul>
