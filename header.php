@@ -27,7 +27,7 @@
 
     <!-- Stylesheets -->
     <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+    <link href="https://xpresswebsolution.com/synergy/css/style.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
     <!--Color Switcher Mockup-->
     <link href="css/color-switcher-design.css" rel="stylesheet">
