@@ -32,7 +32,7 @@
                     <div class="inner-column p0">
                         <div class="sec-title">
                             <h2>Welcome to Synergy Investment and Business Consultants</h2>
-                            <div class="text"><i>Our consultants work closely together with our clients to achieve their goals through deep down research, hands-on consultancy, and effective execution from start to finish. While most consultants conduct industry research and give advisory services, our team try to come up with solutions that can assist businesses and provide answers. We listen to management and proactively work together as a team. </i></div>
+                            <div class="text"><i>Our consultants work closely together with our clients to achieve their goals through deep-dive research, hands-on consulting, and effective execution from start to finish. While most consulting firms conduct industry research and give advisory services, our team delivers solutions that can assist businesses and provide answers. We listen to management and proactively work together as a team.</i></div>
                         </div>
                     </div>
                 </div>
@@ -49,13 +49,11 @@
                 <div class="content-column col-lg-12 col-md-12 col-sm-12 mb0">
                     <div class="inner-columnx">
                         <div class="sec-title">
-                            <div class="text">We have a diverse group of consultants and advisors are from top marketing/PR firms, investment banks, hedge funds, private equity, venture capital, consumers, entertainment, real entrepreneurs and biotech experts. Together we have extensive experiences and not only have due diligent experiences but also have invested in the companies ourselves. We have given large to mid-size corporations advice more than 20 decades. That said, we understand that even in the same industry, every company is different and with that mindset we solve problems and give solutions.</div>
+                            <div class="text">We have a diverse group of consultants and advisors from top marketing/PR firms, investment banks, hedge funds, private equity, venture capital, consumer retail, entertainment, entrepreneurial start-ups and biotech. Together we have extensive industry knowledge and not only have experience in due diligence but also have invested in the companies ourselves. We have given large to mid-size corporations advice for over 30 years. That said, we understand that every company is different and with that mindset we solve problems and give solutions tailored to each situation.</div>
 
-                           <div class="text"> Most of our consultants have been in top ranking professionals and combined, have researched and have conducted due diligence with upper level management over more than thousands of times. In addition to company research, we are experts in the industry and understand the competitive environment. When our consulting and advisory team come together to solve issues in today’s world, we believe we can provide extreme value-added services. </div>    
+                           <div class="text">We also have direct access to upper level management of multinational companies. Though this network, we are able to connect industry experts directly with our clients. And combined with our in-depth understanding of the competitive environment, we believe we can provide extreme value-added services to solve issues in today’s world.</div>    
 
-                            <div class="text">In addition, through our expert network around the world, we are not only able to connect industry experts with our clients but on the ground real story as they unfold. In the today’s competitive marketplace this separates us from the rest. </div>
-
-                            <div class="text">Deep-dive research in private companies not only gives clients insight but also competitiveness. In this environment arming yourself with insight, new trends and information could make a major difference in conducting your business. </div>
+                            <div class="text">It is this unique combination of industry knowledge, upper management access, and actual investment experience which separates us from even the top consulting firms. In this competitive environment aligning yourself with the right partner could be the difference in success.</div>
 
                         </div>
                         </div>
