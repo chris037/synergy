@@ -8,4 +8,4 @@ videos/
 
 # Ignore config file
 config.ini
-~sendmail.php
+~sendemail.php
