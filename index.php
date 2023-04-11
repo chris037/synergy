@@ -76,9 +76,48 @@
                 <h2>Global Consulting Services
                 </h2>
             </div>
+        </div>
+    </section>
+    <section class="fun-fact-section style-two" style="background-image: url(images/background/9.jpg);">
+        <div class="auto-container">
+            <div class="fact-counter">
+                <div class="row clearfix">
+                    <?php
+                        // Define an array of columns with their corresponding icons and titles
+                        $columns = array(
+                            array("dna.png", "Synergy Biotech"),
+                            array("invest.png", "Synergy Alternative Investments Evaluation"),
+                            array("digital.png", "Digital and Brand Ambassador"),
+                            array("consumer.png", "Consumer / E-commerce"),
+                            array("food.png", "Restaurant / Food and Beverage"),
+                            array("industrials.png", "Industrials and Infrastructure"),
+                            array("real-estate.png", "Real Estate Property"),
+                            array("b2bb2c.png", "B2B/B2C Consulting"),
+                            array("funds.png", "Fund Raising / Creative Sourcing Deals")
+                        );
+
+                        // Loop through the array and generate the HTML code for each column
+                        foreach ($columns as $column) {
+                            $icon = $column[0];
+                            $title = $column[1];
+                            echo '<div class="counter-column col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeInUp;">';
+                            echo '<div class="count-box counted">';
+                            echo '<span class="icon"><img src="images/icons/'.$icon.'"/></span>';
+                            echo '<h4 class="counter-title">'.$title.'</h4>';
+                            echo '</div></div>';
+                        }
+                    ?>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="features-section">
+        <div class="auto-container">
+            
             <div class="row">
                 <!-- Feature Block -->
-                <div class="feature-block col-lg-6 col-md-6 col-sm-12 wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                <div class="feature-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
                     <img src="images/transnational/5.jpg" alt="Hands-on Consulting"/>
                     <div class="inner-box">
 
@@ -89,7 +128,7 @@
                 </div>
 
                 <!-- Feature Block -->
-                <div class="feature-block col-lg-6 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms; animation-name: fadeInUp;">
+                <div class="feature-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms; animation-name: fadeInUp;">
                     <img src="images/transnational/2.jpg" alt="E-Commerce and Digital Consulting"/>
                     <div class="inner-box">
 
@@ -100,7 +139,7 @@
                 </div>
 
                 <!-- Feature Block -->
-                <div class="feature-block col-lg-6 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeInUp;">
+                <div class="feature-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeInUp;">
                     <img src="images/transnational/3.jpg" alt="Business Growth and Management"/>
                     <div class="inner-box">
 
@@ -110,7 +149,7 @@
                     </div>
                 </div>
                 <!-- Feature Block -->
-                <div class="feature-block col-lg-6 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeInUp;">
+                <div class="feature-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeInUp;">
                     <img src="images/transnational/4.jpg" alt="B2B / B2C Connections" />
                     <div class="inner-box">
 
@@ -124,43 +163,7 @@
     </section>
 
 
-    <!-- Features Section Two -->
-    <section class="features-section-two hidden" style="background: #EEE;">
-        <div class="auto-container">
-            <div class="anim-icons">
-                <span class="icon twist-line-1 wow zoomIn"></span>
-                <span class="icon twist-line-2 wow zoomIn" data-wow-delay="1s"></span>
-                <span class="icon twist-line-3 wow zoomIn" data-wow-delay="2s"></span>
-            </div>
-
-            <div class="row">
-                <!-- Title Block -->
-                <div class="title-blockx col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
-                    <div class="inner-box text-center">
-                        <div class="sec-title">
-                            <!-- <span class="title">Features</span> -->
-                            <h2>Our Sector</h2>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-            <?php
-                echo '<div class="row">';
-                echo '<div class="feature-block-icons">';
-                for ($i = 1; $i <= 20; $i++) {
-                $svgPath = 'images/icons/Asset ' . $i . '.svg';
-                
-                echo '<div class="icon-box"><img src="' . $svgPath . '"/></div>';
-               
-                }
-                echo '</div>';
-                echo '</div>';
-            ?>
-        </div>
-        </div>
-    </section>
-    <!--End Features Section -->
+   
 
     <section class="features-section">
         <div class="auto-container">
@@ -234,40 +237,7 @@
 
         </div>
     </section>
-    <section class="fun-fact-section style-two" style="background-image: url(images/background/9.jpg);">
-        <div class="auto-container">
-            <div class="fact-counter">
-                <div class="row clearfix">
-                    <?php
-                        // Define an array of columns with their corresponding icons and titles
-                        $columns = array(
-                            array("dna.png", "Synergy Biotech"),
-                            array("invest.png", "Synergy Alternative Investments"),
-                            array("digital.png", "Digital and Brand Ambassador"),
-                            array("consumer.png", "Consumers"),
-                            array("food.png", "Food and Beverage"),
-                            array("industrials.png", "Industrials"),
-                            array("real-estate.png", "Real Estate Property"),
-                            array("b2bb2c.png", "B2B/B2C Consulting"),
-                            array("funds.png", "Fund Raising")
-                        );
 
-                        // Loop through the array and generate the HTML code for each column
-                        foreach ($columns as $column) {
-                            $icon = $column[0];
-                            $title = $column[1];
-                            echo '<div class="counter-column col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeInUp;">';
-                            echo '<div class="count-box counted">';
-                            echo '<span class="icon"><img src="images/icons/'.$icon.'"/></span>';
-                            echo '<h4 class="counter-title">'.$title.'</h4>';
-                            echo '</div></div>';
-                        }
-                    ?>
-                    
-                </div>
-            </div>
-        </div>
-    </section>
     <section class="map-section">
         <div class="auto-container">
         <div class="row">

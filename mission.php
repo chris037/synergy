@@ -24,7 +24,9 @@
                     <div class="sec-title">
                             <!-- <span class="title">Who We Are</span> -->
                             <h2>Our Mission</h2>
-                            <div class="text">We assist our clients thru 1) deep dive industry research 2) company research and finances 3) fast changing trend advisory so that they can successfully accomplish their end goals. We think of our clients are our partners in this cyclical environment and give strategic consultant advise in most sectors.</div>
+                            <div class="text">Our mission is to come together as a team of experts and consultants with extreme amount of experience in doing due diligence on companies. We do a deep down research because we invested in them ourselves.</div>
+                            <div class="text">
+                            Using our global networks and using our global network to help businesses grow, turnaround, and expand internationally. From start to finish, our consultants will be a part of your team to assist and generate research, ideas, and execute those ideas to accomplish the client's goals. </div>
                         </div>
                     </div>
                 </div>

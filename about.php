@@ -49,7 +49,7 @@
                 <!-- Content Column -->
                 <div class="content-column col-lg-8 offset-lg-2 col-md-12 col-sm-12">
                     <div class="inner-column">
-                       <div class="wow fadeIn"><img src="images/synergy_process2.png" class="img-fluid"/></div>
+                       <div class="wow fadeIn text-center"><img src="images/synergy_process.jpg" class="img-fluid"/></div>
                     </div>
                 </div>
 
