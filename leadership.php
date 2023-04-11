@@ -17,15 +17,16 @@
     <section class="speakers-section-two">
         <div class="anim-icons">
             <span class="icon icon-circle-4 wow zoomIn"></span>
-            <span class="icon icon-circle-3 wow zoomIn"></span>
+            <!-- <span class="icon icon-circle-3 wow zoomIn"></span> -->
         </div>
 
         <div class="auto-container">
             <div class="sec-title text-center">
                 <span class="title"></span>
                 <h2>Our Leadership Team</h2>
+                <div class="text">Our team is a collection of only the top people in their respective industry and have achieved successes. Professionally known and respected them for years but now I am fortunate enough to work with them at Synergy. They have not only years of experience in research but investments and insights in what’s to come. We try to pass on this experience and knowledge tour clients and connect the right people/businesses</div>
             </div>
-
+            
             <div class="row">
                 <?php
                     foreach ($leaders as $leader) {
@@ -37,7 +38,7 @@
 
             <div class="row">
 
-<p>
+<p class="text-center" style="padding: 0 1rem;">
 We are also advised by Advisory Boards from CEOs of Private Equity, Venture Capital, Investment Banking, and Industrial Industries. Our Marketing Team Includes Sports Casters, Aerospace Engineers, Cosmetic Logistics and Branding and Sales.</p>
 
             </div>

@@ -92,7 +92,7 @@
                             array("food.png", "Restaurant / Food and Beverage"),
                             array("industrials.png", "Industrials and Infrastructure"),
                             array("real-estate.png", "Real Estate Property"),
-                            array("b2bb2c.png", "B2B/B2C Consulting"),
+                            array("b2bb2c.png", "B2B / B2C Consulting"),
                             array("funds.png", "Fund Raising / Creative Sourcing Deals")
                         );
 

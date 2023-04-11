@@ -10,7 +10,7 @@ $leaders = array(
     ),
     array(
         "name" => "Steve Yoo",
-        "designation" => "CFO / Internet Research",
+        "designation" => "CFO / Internet Research / Consultant",
         "image" => "images/resource/leader-1.jpg",
         "email" => "steve.yoo@synergyinvllc.com",
         "bio" => ""
@@ -47,14 +47,14 @@ $leaders = array(
 
     array(
         "name" => "Maria Kim, DDS ",
-        "designation" => "Advisory / Business Owner",
+        "designation" => "Senior Advisor / Business Owner",
         "image" => "images/resource/leader-1.jpg",
         "email" => "",
         "bio" => "Mrs. Kim is a dentist and a beauty expert. She is an owner of two successful dentistry office and has license in solid knowledge in botox for some of the most famous celebrities. She has the training to do complex dental implant work and a business a solid business mindset and creative ways to make patients look better through her extensive training and experience. She also graduated from UCLA and Loyola Dental School. She advises on most business matters for mid-size companies. "
     ),
     array(
         "name" => "Alison Yip",
-        "designation" => "Advisor Technology / Digital Specialist",
+        "designation" => "Senior Advisor / Digital Specialist",
         "image" => "images/resource/leader-1.jpg",
         "email" => "",
         "bio" => "Ms. Yip is considered one of the top tech specialists ever. She has made her mark covering large corporations, like Samsung, Hynix, LG Display, Infosys and other tech having a great track record almost most of her career outperforming the index for several years. Prior to that she was a sell-side analyst and been in the financial industry for almost 30 years. She is also involved in high-end fashion consumer market and will assist in driving the technology sector."
@@ -62,7 +62,7 @@ $leaders = array(
     
     array(
         "name" => "Gene Ryang",
-        "designation" => "Advisor for Management",
+        "designation" => "Senior Advisor for Management",
         "image" => "images/resource/leader-1.jpg",
         "email" => "",
         "bio" => "Mr. Ryang is a pioneer in the equity market industry in Asia from Hong Kong, Singapore to Korea. He has started his career at WI Carr, HSBC, Deutch Bank, where he was a partner, and he sold his stake and has been and Executive Managing Director for Daewoo Securities responsible for the build out of their multiple divisions and mentoring junior bankers for decades. Later he ran his own private equity and venture fund. "
@@ -70,7 +70,7 @@ $leaders = array(
 
     array(
         "name" => "Sam Rhee",
-        "designation" => "Advisor for Fintech",
+        "designation" => "Senior Advisor for Fintech",
         "image" => "images/resource/leader-1.jpg",
         "email" => "",
         "bio" => ""

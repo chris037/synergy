@@ -87,10 +87,10 @@
 
                                         <li>
                                             <span class="icon flaticon-phone"></span>
-                                            <div class="text"><a href="tel:+1-310-430-6503">LA: +1 310 430 6503</a></div>
+                                            <div class="text"><a href="tel:+1-310-430-6503">LA: +1 310 469 4299</a></div>
                                             <div class="text"><a href="tel:+1-310-430-6503">NY: +1 212 518 1456</a></div>
                                           
-                               
+                                           
                                         </li>
 
                                         <li>
