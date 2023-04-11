@@ -1,0 +1,11 @@
+# Ignore build artifacts
+fonts/
+images/
+videos/
+
+# Ignore logs
+*.log
+
+# Ignore config file
+config.ini
+~sendmail.php
