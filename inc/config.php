@@ -12,14 +12,14 @@ $leaders = array(
         "name" => "Steve Yoo",
         "designation" => "CFO / Internet Research",
         "image" => "images/resource/leader-1.jpg",
-        "email" => "",
+        "email" => "steve.yoo@synergyinvllc.com",
         "bio" => ""
     ),
     array(
         "name" => "Najung Kim",
         "designation" => "Head of Marketing & Ad | Consumer | High-end Fashion",
         "image" => "images/resource/leader-1.jpg",
-        "email" => "",
+        "email" => "najung.kim@synergyinvllc.com",
         "bio" => "Ms. Kim has started her career in marketing to one of the top companies in the world such as Bottega Vetteta, Samsung, BMW, Head of Marketing for Adidas. She is also an expert in e-commerce and founded the Korean division of Suit Supply a Netherland Company. She also as expertise in brand marketing and is working on numerous cosmetic companies. "
     ),
     array(
@@ -33,7 +33,7 @@ $leaders = array(
         "name" => "Dr. Sanjeev Sharma, MD",
         "designation" => "CMO (Biotech Specialist) ",
         "image" => "images/resource/leader-1.jpg",
-        "email" => "",
+        "email" => "sanjeev.sharma@synergyinvllc.com",
         "bio" => "Dr. Sharma has more than 30 years of experience in the biotech industry with some of the biggest pharmaceutical companies in the world like Pfizer & Scripps Institute. He is an expert in most matters in biotech from being a PI to understanding FDA regulation, IND and development of new drugs. He is one of the scientists responsible for creating the Impossible Meat formula. The list goes on and on."
     ),
    

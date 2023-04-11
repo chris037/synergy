@@ -22,7 +22,7 @@
                             <li>
                                 <span class="icon fa fa-map-marker-alt"></span>
                                 <p><strong> 600 W Commonwealth Ave, Suite 146</strong></p>
-                                <p>Fullerton CA, 92832</p>
+                                <p>Los Angeles CA, 92832</p>
                                 
                             </li>
 

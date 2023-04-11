@@ -101,8 +101,7 @@
                                         <li>
                                             <span class="icon flaticon-worldwide"></span>
                                             <div class="text">
-                                            600 W Commonwealth Ave, Suite 146 <br/>
-                                            Fullerton CA, 92832</div>
+                                            600 W Commonwealth Ave, Suite 146 Los Angeles CA, 92832</div>
                                         </li>
                                     </ul>
                                 </div>
