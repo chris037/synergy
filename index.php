@@ -32,7 +32,7 @@
                     <div class="inner-column p0">
                         <div class="sec-title">
                             <h2>Welcome to Synergy Investment and Business Consultants</h2>
-                            <div class="text"><i>Our consultants work closely together with our clients to achieve their goals through deep-dive research, hands-on consulting, and effective execution from start to finish. While most consulting firms conduct industry research and give advisory services, our team delivers solutions that can assist businesses and provide answers. We listen to management and proactively work together as a team.</i></div>
+                            <div class="text"><i>While most consulting firms conduct industry research and give advisory services, our team delivers solutions that can assist businesses and provide answers. We listen to management and proactively work together as a team.</i></div>
                         </div>
                     </div>
                 </div>

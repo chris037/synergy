@@ -21,7 +21,7 @@
                 <!-- Content Column -->
                 <div class="content-column col-lg-6 col-md-12 col-sm-12">
                     <div class="inner-column">
-                    <div class="sec-title">
+                    <div class="sec-title hidden">
                             <!-- <span class="title">Who We Are</span> -->
                             <h2>Our Mission</h2>
                             <div class="text">Our mission is to come together as a team of experts and consultants with extreme amount of experience in doing due diligence on companies. We do a deep down research because we invested in them ourselves.</div>

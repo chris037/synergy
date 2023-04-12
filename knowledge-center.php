@@ -24,7 +24,7 @@
                         <div class="sec-title">
                             <!-- <span class="title">Who We Are</span> -->
                             <h2>Our Knowledge Center</h2>
-                            <div class="text">Our clients are mostly private businesses that want to expand and list on the stock exchange. However, not every company is right for the stock exchange. We try to understand that not every client is the same and we need to make sure our strategy is right for particular clients' needs. Our “Knowledge Center”  will contain valuable data and expert opinions from industry specialists. 
+                            <div class="text">Our clients are mostly private businesses that want to expand, turn around their business, and or generate new investment ideas. Not every company is right for stock exchange, there's private ways to raise assets and to develop new ideas in this fast pace marketplace. We understand that not every client is the same and we ensure our strategy is right for particular clients' needs. Our “Knowledge Center” consists of real knowledge that provides valuable data and expert opinions from industry specialists.
                                 <br/><br/>
                                 <i>Disclaimer: Knowledge Center is not a buy or sell rating but an expert opinion from their real experience and/or research.</i> 
                             </div>
