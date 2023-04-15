@@ -2,7 +2,7 @@
 
 <!-- About Us Page -->
 <!--Page Title-->
-<section class="page-title" style="background-image:url(images/banner-knowledge.jpg);">
+<section class="page-title" style="background-image:url(images/banner-knowledge2.jpg);">
         <div class="auto-container">
            
         </div>
@@ -35,9 +35,17 @@
                 </div>
 
                 <!-- Image Column -->
-                <div class="content-column col-lg-6 col-md-12 col-sm-12">
+                <div class="content-column col-lg-6 col-md-12 col-sm-12 hidden">
                     <div id="video-section">
                         <video id="my-video" style="width: 100%" src="videos/video-4.mp4" autoplay></video>
+                    </div>
+
+                </div>
+
+                <!-- Image Column -->
+                <div class="content-column col-lg-6 col-md-12 col-sm-12">
+                    <div id="inner-column">
+                        <img src="images/banner-knowledge3.jpg" class="img-fluid"/>
                     </div>
 
                 </div>

@@ -55,9 +55,9 @@ $leaders = array(
     array(
         "name" => "Alison Yip",
         "designation" => "Senior Advisor / Digital Specialist",
-        "image" => "images/resource/leader-1.jpg",
+        "image" => "images/resource/alison.jpg",
         "email" => "",
-        "bio" => "Ms. Yip is considered one of the top tech specialists ever. She has made her mark covering large corporations, like Samsung, Hynix, LG Display, Infosys and other tech having a great track record almost most of her career outperforming the index for several years. Prior to that she was a sell-side analyst and been in the financial industry for almost 30 years. She is also involved in high-end fashion consumer market and will assist in driving the technology sector."
+        "bio" => "Ms. Alison Yip has over 20 years of investment experience in the technology sector. Before joining our advisory board, she was a core member of the Global Technology Team at T. Rowe Price, covering the Asian technology sector. Her expertise includes hunting for outliers and investing in deep cyclicals. Alison holds an MBA degree from the University of Nottingham, UK."
     ),
     
     array(

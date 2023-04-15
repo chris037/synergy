@@ -145,7 +145,7 @@
 
                 <!-- Feature Block -->
                 <div class="feature-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms; animation-name: fadeInUp;">
-                    <img src="images/transnational/2.jpg" alt="E-Commerce and Digital Consulting"/>
+                    <img src="images/transnational/6.jpg" alt="E-Commerce and Digital Consulting"/>
                     <div class="inner-box">
 
                         <h4><a href="#">E-Commerce and Digital Consulting</a></h4>
@@ -193,7 +193,7 @@
                 <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
                     <div class="inner-box">
                         <!-- <div class="icon-box"><span class="icon flaticon-search"></span></div> -->
-                        <h4><a href="#">Business Industry</a></h4>
+                        <h4><a href="#">Business Industry Consultant</a></h4>
                         <div class="text">Everyone of our consultants are industry experts either in marketing & ads, investment research, investment banking, private equity, consumers, and food & beverage. We take upmost priority in what our clients want and establish. </div>
                         <div class="link-box"><a href="#" class="theme-btn">Read More</a></div>
                     </div>
@@ -232,7 +232,7 @@
                 <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms; animation-name: fadeInUp;">
                     <div class="inner-box">
                         <!-- <div class="icon-box"><span class="icon flaticon-diamond-1"></span></div> -->
-                        <h4><a href="#"> Evaluation of Alternative Investment</a></h4>
+                        <h4><a href="#"> Evaluation of Alternative Investments</a></h4>
                         <div class="text">Investing world has changed dramatically after the Global Financial Crisis. Evaluating of Alternative i Investment (Private equity, venture capital, and hedge funds) is a lot different than it was even five years ago. Evaluating these new alternative asset classes, have not only gotten more difficult but more difficult to understand. Despite this investment consultants continue to utilize traditional way of evaluation. We review not only the risk and reward profile but also active approach in evaluating managers.  We are not afraid to ask difficult questions because of our deep understanding of the financial industry. </div>
                         <div class="link-box"><a href="#" class="theme-btn">Read More</a></div>
                     </div>
@@ -242,7 +242,7 @@
                 <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeInUp;">
                     <div class="inner-box">
                         <!-- <div class="icon-box"><span class="icon flaticon-success"></span></div> -->
-                        <h4><a href="#"> Alternative Investment</a></h4>
+                        <h4><a href="#">Alternative Investment</a></h4>
                         <div class="text">There are as much if not more funds than listed stocks in the US (this includes mutual funds). Alternative investment managers are some of the brightest managers in the world. Our investment consultants have not only co-worked with investment managers but have conducted due diligence together. We understand the process like no others and with some other managers, we have kept close relationship understanding the fund process and philosophy.</div>
                         <div class="link-box"><a href="#" class="theme-btn">Read More</a></div>
                     </div>
