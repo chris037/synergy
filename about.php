@@ -23,7 +23,7 @@
                     <div class="inner-column">
                         <div class="sec-title">
                             <!-- <span class="title">Who We Are</span> -->
-                            <h2>Who We Are</h2>
+                            <h2>Our Process</h2>
                             <div class="text">Our firm is made up of top buy-side and sell-side analysts, ex-Wall Street salespeople, CEOs from most sectors, private equity CEOs, award-winning technology specialists, IT consultants, and specialists in new-era marketing and advertising that have visited and studied more than two decades researching thousands of small to large-cap companies.
 
                             <br/><br/>

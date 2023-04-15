@@ -62,7 +62,7 @@ $leaders = array(
     
     array(
         "name" => "Gene Ryang",
-        "designation" => "Senior Advisor for Management",
+        "designation" => "Senior Advisor",
         "image" => "images/resource/leader-1.jpg",
         "email" => "",
         "bio" => "Mr. Ryang is a pioneer in the equity market industry in Asia from Hong Kong, Singapore to Korea. He has started his career at WI Carr, HSBC, Deutch Bank, where he was a partner, and he sold his stake and has been and Executive Managing Director for Daewoo Securities responsible for the build out of their multiple divisions and mentoring junior bankers for decades. Later he ran his own private equity and venture fund. "
@@ -70,10 +70,17 @@ $leaders = array(
 
     array(
         "name" => "Sam Rhee",
-        "designation" => "Senior Advisor for Fintech",
+        "designation" => "Senior Advisor",
         "image" => "images/resource/leader-1.jpg",
         "email" => "",
         "bio" => ""
+    ),
+    array(
+        "name" => "Dr. Kamal Khalil MD MBA",
+        "designation" => "Senior Advisor ",
+        "image" => "images/resource/Khalil.jpg",
+        "email" => "",
+        "bio" => "Dr. Khalil has more than 15 years’ experience in healthcare and biotech. Establishing himself within healthcare and biotechnology, he has led numerous research initiatives within basic science, clinical research, and health equity. His diverse experience has allowed him to develop within various sectors within both industries as well as managing to develop the business development and scientific output for leading entities. Coinciding within his professional career, Dr Khalil has also managed to be a consistent lecturer, adjunct faculty member teaching various sciences, and completing a Master of Business, specializing within the business of medicine."
     )
 
 );
