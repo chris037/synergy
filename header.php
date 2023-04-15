@@ -4,7 +4,7 @@
         $company_name = "Synergy Investments LLC";
         $titles = [
             "about" => "About Us",
-            "mission" => "Mission",
+            // "mission" => "Mission",
             "contacts" => "Contact Us",
             "knowledge-center" => "Knowledge Center",
             "leadership" => "Leadership",
@@ -92,7 +92,7 @@
                                 <ul class="navigation clearfix">
                                     <li class="<?php if ($current_page == 'index.php') echo 'current'; ?>"><a href="index.php">Home</a></li>
                                     <li class="<?php if ($current_page == 'about.php') echo 'current'; ?>"><a href="about.php">About</a></li>
-                                    <li class="<?php if ($current_page == 'mission.php') echo 'current'; ?>"><a href="mission.php">Mission</a></li>
+                                    <li class="hidden <?php if ($current_page == 'mission.php') echo 'current'; ?>"><a href="mission.php">Mission</a></li>
                                     <li class="dropdown <?php if ($current_page == 'knowledge-center.php') echo 'current'; ?>"><a href="knowledge-center.php">Knowledge Center</a>
                                         <ul>
                                             <li><a href="#">Client Portal</a></li>
@@ -100,6 +100,7 @@
                                     </li>
                                     <li class="<?php if ($current_page == 'leadership.php') echo 'current'; ?>"><a href="leadership.php">Leadership</a></li>
                                     <li class="<?php if ($current_page == 'blog.php') echo 'current'; ?>"><a href="blog.php">Blog</a></li>
+                                    <li class="<?php if ($current_page == 'podcast.php') echo 'current'; ?>"><a href="podcast.php">Podcast</a></li>
                                    
                                     <li class="<?php if ($current_page == 'contacts.php') echo 'current'; ?>"><a href="contacts.php">Contacts</a></li>
                                 </ul>
