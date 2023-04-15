@@ -27,7 +27,7 @@
 
     <!-- Stylesheets -->
     <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="https://xpresswebsolution.com/synergy/css/style-min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/fontawesome-all.css">
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/elegent-icon.css">

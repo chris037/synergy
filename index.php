@@ -1,7 +1,23 @@
 <?php include "header.php"; ?>
 
-    <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/banner-2.jpg);">
+    <section class="banner-section">
+        <div class="banner-carousel owl-carousel owl-theme">
+            <!-- Slide Item -->
+            <div class="slide-item" style="background-image:url(images/banner-2.jpg);">
+                <div class="auto-container">
+                    <div class="content-box">
+                        
+                        <h2>Welcome to Synergy Consulting Group (SCG)</h2>
+                        <div class="text">Our services include consulting in many sectors by industry, company, and start-up specialist. Many great ideas stop at initial stages due to lack of execution, education, or knowledge of how to run a businesses. Other businesses with expertise do not have the capability to grow because less workforce.   We at SCG have met with more than a thousand companies each and gave advices. We even invested in them. We simply had skin in the game. That's way better than a 500 page report that's expired as the world economy has changed already and moved on.</div>
+                    </div>
+                </div>
+            </div>
+
+           
+        </div>
+    </section>
+    <!--End Banner Section -->
+    <section class="page-title hidden" style="background-image:url(images/banner-2.jpg);">
         <div class="auto-container">
           
         </div>
@@ -11,7 +27,7 @@
         <div class="auto-container">
             <div class="row">
                 <div class="content-column col-lg-12 col-md-12 col-sm-12">
-                    <h2 class="home-quote wow fadeIn">"Synergy is what happens when one plus one equals ten or a hundred or even a thousand!"  -Steven Convey</h2>
+                    <h2 class="home-quote wow fadeIn">"Synergy is what happens when one plus one equals ten or a hundred or even a thousand!"  - Steven Covey</h2>
                 </div>
             </div>
         </div>
@@ -19,20 +35,20 @@
     <!--End Page Title-->
 
     <!-- About Section -->
-    <section class="about-section">
+    <section class="about-section p0">
         <!-- <div class="anim-icons full-width">
             <span class="icon icon-circle-blue wow fadeIn"></span>
             <span class="icon icon-dots wow fadeInleft"></span>
             <span class="icon icon-circle-1 wow zoomIn"></span>
         </div> -->
         <div class="auto-container">
-            <div class="row">
+            <div class="row hidden">
                 <!-- Content Column -->
                 <div class="content-column col-lg-6 col-md-12 col-sm-12 mb0">
                     <div class="inner-column p0">
                         <div class="sec-title">
                             <h2>Welcome to Synergy Investment and Business Consultants</h2>
-                            <div class="text"><i>While most consulting firms conduct industry research and give advisory services, our team delivers solutions that can assist businesses and provide answers. We listen to management and proactively work together as a team.</i></div>
+                            <div class="text"><i>Our services include consulting in many sectors by industry, company, and start-up specialist. Many great ideas stop at initial stages due to lack of execution, education, or knowledge of how to run a businesses. Other businesses with expertise do not have the capability to grow because less workforce.   We at SCG have met with more than a thousand companies each and gave advices. We even invested in them. We simply had skin in the game. That's way better than a 500 page report that's expired as the world economy has changed already and moved on</i></div>
                         </div>
                     </div>
                 </div>
@@ -44,7 +60,7 @@
 
                 </div>
             </div>
-            <div class="row">
+            <div class="row ">
                 <!-- Content Column -->
                 <div class="content-column col-lg-12 col-md-12 col-sm-12 mb0">
                     <div class="inner-columnx">
