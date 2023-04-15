@@ -84,7 +84,15 @@ $leaders = array(
         "image" => "images/resource/khalil.jpg",
         "email" => "",
         "bio" => "Dr. Khalil has more than 15 years’ experience in healthcare and biotech. Establishing himself within healthcare and biotechnology, he has led numerous research initiatives within basic science, clinical research, and health equity. His diverse experience has allowed him to develop within various sectors within both industries as well as managing to develop the business development and scientific output for leading entities. Coinciding within his professional career, Dr Khalil has also managed to be a consistent lecturer, adjunct faculty member teaching various sciences, and completing a Master of Business, specializing within the business of medicine."
+    ),
+    array(
+        "name" => "Chryssa (Cat) Rellos",
+        "designation" => "Senior Advisor ",
+        "image" => "images/resource/chryssa.jpg",
+        "email" => "",
+        "bio" => "Currently a senior at Loyola Marymount University to acquire her bachelor’s degree in Entrepreneurship, Chryssa Rellos is a junior consultant specializing in media, podcasts, and streaming. She is experienced with technology and well informed on current media trends. She enjoys streaming on Twitch in her free time, which developed her skills for entertaining an audience and communicating with others."
     )
+   
 
 );
 
