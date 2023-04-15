@@ -32,9 +32,12 @@ $leaders = array(
     array(
         "name" => "Dr. Sanjeev Sharma, MD",
         "designation" => "CMO (Biotech Specialist) ",
-        "image" => "images/resource/leader-1.jpg",
+        "image" => "images/resource/sanjeev.jpg",
         "email" => "sanjeev.sharma@synergyinvllc.com",
-        "bio" => "Dr. Sharma has more than 30 years of experience in the biotech industry with some of the biggest pharmaceutical companies in the world like Pfizer & Scripps Institute. He is an expert in most matters in biotech from being a PI to understanding FDA regulation, IND and development of new drugs. He is one of the scientists responsible for creating the Impossible Meat formula. The list goes on and on."
+        "bio" => "Sanjeev brings decades of experience in Clinical Research and Biotech Clinical Development. From pre-clinical development and testing, through all phases of clinical development, his expertise within the FDA Regulatory environment has created multiple, successful, drug and device registrations. Leading teams of clinical trial professionals, from conception, to marketing, he strictly adheres to the rigorous Proof-of-Concept tenets, Safety and Efficacy. Developing Consumer products, including Cosmetics, he has worked within the Modernization of Cosmetics Regulation Act of 2022 (MoCRA). His pre-clinical testing expertise spans all models, including cell culture, rodent, canine, non-human primate, and zebrafish.<br/><br/>Education:<br/>
+        - Washington University in St. Louis, AB Biology<br/>
+        - St. Louis University School of Medicine, MD with Distinction in Research<br/>
+        - University of Alabama-Birmingham, Orthopedic Surgery Residency, Family and Internal   Medicine Residency"
     ),
    
     // array(
@@ -78,7 +81,7 @@ $leaders = array(
     array(
         "name" => "Dr. Kamal Khalil MD MBA",
         "designation" => "Senior Advisor ",
-        "image" => "images/resource/Khalil.jpg",
+        "image" => "images/resource/khalil.jpg",
         "email" => "",
         "bio" => "Dr. Khalil has more than 15 years’ experience in healthcare and biotech. Establishing himself within healthcare and biotechnology, he has led numerous research initiatives within basic science, clinical research, and health equity. His diverse experience has allowed him to develop within various sectors within both industries as well as managing to develop the business development and scientific output for leading entities. Coinciding within his professional career, Dr Khalil has also managed to be a consistent lecturer, adjunct faculty member teaching various sciences, and completing a Master of Business, specializing within the business of medicine."
     )
