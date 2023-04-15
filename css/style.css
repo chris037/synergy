@@ -5730,7 +5730,7 @@ img {
 }
 
 .fun-fact-section .counter-column:nth-child(4n+3) .count-box .icon {
-    background-color: #4c35a9;
+    background-color: #614cd8;
 }
 
 .fun-fact-section .counter-column:nth-child(4n+4) .count-box .icon {
@@ -10431,7 +10431,7 @@ img {
 
 .header-top {
     position: relative;
-    background-color: #ec167f;
+    background-color: #101130;
     -webkit-transition: all 600ms ease;
     -ms-transition: all 600ms ease;
     -o-transition: all 600ms ease;

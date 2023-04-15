@@ -64,13 +64,13 @@ We are also advised by Advisory Boards from CEOs of Private Equity, Venture Capi
 
             <div class="content-box">
                 
-            <h2>SIC in the works:</h2> 
+            <h2>SGC in the works:</h2> 
 <p>We educate the investors in the market/businesses/industry trends and investments. There are many new asset classes and however, some while correlation may differ from traditional assets, there are other risk factors to consider. Our consultants consists of experts that have over 20 years of experience in their respective fields and have gone through many market cycles. </p>
 
 <h2>Current projects:</h2> 
-<p>Digital marketing/Brand ambassador consulting and negotiations with retailers. SIC is currently consulting to an international cosmetic company expanding their business in the Americas launching their brand with FDA guidelines, usage of various ingredients and designing their products. </p>
+<p>Digital marketing/Brand ambassador consulting and negotiations with retailers. SGC is currently consulting to an international cosmetic company expanding their business in the Americas launching their brand with FDA guidelines, usage of various ingredients and designing their products. </p>
 
-<p>SIC is currently looking for deal sourcing for our international fund with strong track record since inception. We are searching for an infrastructure sourcing. They have already funded in building infrastructure in Europe, US and emerging market countries.  </p>
+<p>SGC is currently looking for deal sourcing for our international fund with strong track record since inception. We are searching for an infrastructure sourcing. They have already funded in building infrastructure in Europe, US and emerging market countries.  </p>
 
 <p>Assist in sales of a smaller pharmaceutical company sell their services to the bigger pharmas. Biotech and tech are one of our stronger areas. Testing and going through the trials could be expensive but also rewarding in monetary and moral aspects. One firm figured out how to get more accurate results species that only grow in their country. </p>
 
@@ -78,7 +78,7 @@ We are also advised by Advisory Boards from CEOs of Private Equity, Venture Capi
 
 <p>Most consultants have already attended more than thousands of meetings with corporates, attended multiple conferences, meetings with management. Additionally, as for fund investing, some of us have met and experienced, how various funds invest in their portfolio. As a client, through our research portal you get access to real experiences of meeting not only the corporate management but also the fund managers and their strategy. </p>
 
-<p>SIC not only help fund raising process but also help start-ups generate strategy and sound structure.</p>
+<p>SGC not only help fund raising process but also help start-ups generate strategy and sound structure.</p>
 
 <p>For larger clients, we move our consultant team assigned to the project, utilizing the shared-office space so they are available at all times.</p>
 

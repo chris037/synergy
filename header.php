@@ -64,6 +64,28 @@
 
         <!-- Main Header-->
         <header class="main-header header-style-two">
+        <div class="header-top">
+			<div class="auto-container">
+				<div class="clearfix">
+
+					
+
+					<div class="pull-right">
+						
+
+						<ul class="social-links">
+                                    <li><a target="_blank" href="https://www.facebook.com/synergyinvllc/"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a target="_blank" href="https://linkedin.com/in/synergyinvestmentconsultants"><i class="fab fa-linkedin"></i></a></li>
+                                    <li><a target="_blank" href="https://twitter.com/synergyinvllc"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a target="_blank" href="https://www.instagram.com/synergyinvestmentconsultants/"><i class="fab fa-instagram"></i></a></li>
+
+                                </ul>
+
+					</div>
+
+				</div>
+			</div>
+		</div>
             <div class="main-box">
                 <div class="auto-container clearfix">
                     <div class="logo-box">

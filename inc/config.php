@@ -27,7 +27,7 @@ $leaders = array(
     //     "designation" => "Cosmetics Entrepreneur Expert",
     //     "image" => "images/resource/leader-1.jpg",
     //     "email" => "",
-    //     "bio" => "Mr. Woo has more than a decade of experience in cosmetics, started his own brand and has successfully launched many men’s products in addition to health care products. Prior to that he worked at Cisco Systems. He is knowledge and experience in both of these tech and high fashion combined no only make him an expert but will advise SIC in all matters related to consumers. "
+    //     "bio" => "Mr. Woo has more than a decade of experience in cosmetics, started his own brand and has successfully launched many men’s products in addition to health care products. Prior to that he worked at Cisco Systems. He is knowledge and experience in both of these tech and high fashion combined no only make him an expert but will advise SGC in all matters related to consumers. "
     // ),
     array(
         "name" => "Dr. Sanjeev Sharma, MD",
@@ -57,7 +57,7 @@ $leaders = array(
     ),
     array(
         "name" => "Alison Yip",
-        "designation" => "Senior Advisor / Digital Specialist",
+        "designation" => "Senior Advisor / Tech Specialist",
         "image" => "images/resource/alison.jpg",
         "email" => "",
         "bio" => "Ms. Alison Yip has over 20 years of investment experience in the technology sector. Before joining our advisory board, she was a core member of the Global Technology Team at T. Rowe Price, covering the Asian technology sector. Her expertise includes hunting for outliers and investing in deep cyclicals. Alison holds an MBA degree from the University of Nottingham, UK."
