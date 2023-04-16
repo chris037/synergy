@@ -7,10 +7,20 @@
     <div class="auto-container">
         <div class="content-box">
             <h2>Welcome to Synergy Consulting Group (SCG)</h2>
-            <div class="text">Our services include consulting in many sectors by industry, company, and start-up specialist. Many great ideas stop at initial stages due to lack of execution, education, or knowledge of how to run a businesses. Other businesses with expertise do not have the capability to grow because less workforce. We at SCG have met with more than a thousand companies each and gave advices. We even invested in them. We simply had skin in the game. That's way better than a 500 page report that's expired as the world economy has changed already and moved on.</div>
+            <div class="text desktop-only">Our services include consulting in many sectors by industry, company, and start-up specialist. Many great ideas stop at initial stages due to lack of execution, education, or knowledge of how to run a businesses. Other businesses with expertise do not have the capability to grow because less workforce. We at SCG have met with more than a thousand companies each and gave advices. We even invested in them. We simply had skin in the game. That's way better than a 500 page report that's expired as the world economy has changed already and moved on.</div>
         </div>
     </div>
 
+</section>
+<section class="mobile-only section-main-mobile" style="background: #000;">
+    <div class="auto-container">
+        <div class="row">
+            <div class="content-column col-lg-12 col-md-12 col-sm-12">
+                <div class="text">Our services include consulting in many sectors by industry, company, and start-up specialist. Many great ideas stop at initial stages due to lack of execution, education, or knowledge of how to run a businesses. Other businesses with expertise do not have the capability to grow because less workforce. We at SCG have met with more than a thousand companies each and gave advices. We even invested in them. We simply had skin in the game. That's way better than a 500 page report that's expired as the world economy has changed already and moved on.</div>
+            </div>
+
+        </div>
+    </div>
 </section>
 <section>
     <div class="auto-container">
@@ -60,7 +70,7 @@
                         <div class="text"><strong>Synergy of Talents:</strong> We help founders of start-ups execute their ideas, turnaround businesses in niche markets, help management navigate through tough economic cycles, expand into various geographic markets, develop new business segments, and provide consulting services in fund-raising to further expand our clients’ businesses. In this fast-changing business environment, it is a must that your firm not only follows the trends but leads them.</div>
 
                         <div class="text"><strong>What’s to Come (Proactive):</strong> We are also implementing live videos/podcasts with experts in their fields so clients can have better access. In addition, we will have a Twitch channel on our site. Our blogs will be a proactive connection between consultants providing advice to our clients, but the key will be our Knowledge Center portal, which will be available to our clients.</div>
-                                         </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -74,7 +84,7 @@
     <div class="auto-container">
         <div class="anim-icons">
             <span class="icon icon-shape-3 wow fadeIn animated" style="visibility: visible; animation-name: fadeIn;"></span>
-            <span class="icon icon-line-1 wow fadeIn animated" style="visibility: visible; animation-name: fa-spin;"></span>
+            <span class="icon icon-line-1 wow fadeIn animated desktop-only" style="visibility: visible; animation-name: fa-spin;"></span>
         </div>
 
         <div class="sec-title text-center">
