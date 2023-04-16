@@ -57,7 +57,7 @@
                 <!-- Content Column -->
                 <div class="content-column col-lg-6 col-md-12 col-sm-12">
                     <div class="inner-column">
-                       <div class="wow fadeIn text-center"><img src="images/banner-mission.jpg" class="img-fluid"/></div>
+                       <div class="wow fadeIn text-center"><img src="images/banner-mission-2.jpg" class="img-fluid"/></div>
                     </div>
                 </div>
 

@@ -4,7 +4,7 @@ $leaders = array(
     array(
         "name" => "John Lee",
         "designation" => "CEO, Founder / Consultant",
-        "image" => "images/resource/leader-1.jpg", 
+        "image" => "images/resource/john.jpg", 
         "email" => "John.lee@synergyinvllc.com",
         "bio" => "Mr. Lee graduated from UCLA and has worked as a trader for Wilshire Asset Management, an institutional consultant at Verus Investments evaluating mutual funds & alternatives, and a Fund of Funds Portfolio Manager at Samsung Trust. He later relocated to Asia to work as the Head of Institutional Equity Sales at HSBC, servicing global mutual funds and hedge funds. He has ranked #1 on Asiamoney magazine as the best salesperson four times during his tenure. Currently, he serves as the CEO of ABTS, a biotech company developing cancer and COVID-19 drugs, and launched SYNERGY."
     ),
@@ -71,13 +71,13 @@ $leaders = array(
         "bio" => "Mr. Ryang is a pioneer in the equity market industry in Asia from Hong Kong, Singapore to Korea. He has started his career at WI Carr, HSBC, Deutch Bank, where he was a partner, and he sold his stake and has been and Executive Managing Director for Daewoo Securities responsible for the build out of their multiple divisions and mentoring junior bankers for decades. Later he ran his own private equity and venture fund. "
     ),
 
-    array(
-        "name" => "Sam Rhee",
-        "designation" => "Senior Advisor",
-        "image" => "images/resource/leader-1.jpg",
-        "email" => "",
-        "bio" => ""
-    ),
+    // array(
+    //     "name" => "Sam Rhee",
+    //     "designation" => "Senior Advisor",
+    //     "image" => "images/resource/leader-1.jpg",
+    //     "email" => "",
+    //     "bio" => ""
+    // ),
     array(
         "name" => "Dr. Kamal Khalil MD MBA",
         "designation" => "Senior Advisor ",

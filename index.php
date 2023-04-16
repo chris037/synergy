@@ -1,25 +1,14 @@
 <?php include "header.php"; ?>
 
-<section class="banner-section">
-    <div class="banner-carousel owl-carousel owl-theme">
-        <!-- Slide Item -->
-        <div class="slide-item" style="background-image:url(images/banner-2.jpg);">
-            <div class="auto-container">
-                <div class="content-box">
 
-                    <h2>Welcome to Synergy Consulting Group (SCG)</h2>
-                    <div class="text">Our services include consulting in many sectors by industry, company, and start-up specialist. Many great ideas stop at initial stages due to lack of execution, education, or knowledge of how to run a businesses. Other businesses with expertise do not have the capability to grow because less workforce. We at SCG have met with more than a thousand companies each and gave advices. We even invested in them. We simply had skin in the game. That's way better than a 500 page report that's expired as the world economy has changed already and moved on.</div>
-                </div>
-            </div>
-        </div>
-
-
-    </div>
-</section>
 <!--End Banner Section -->
-<section class="page-title hidden" style="background-image:url(images/banner-2.jpg);">
-    <div class="auto-container">
 
+<section class="page-title section-main">
+    <div class="auto-container">
+        <div class="content-box">
+            <h2>Welcome to Synergy Consulting Group (SCG)</h2>
+            <div class="text">Our services include consulting in many sectors by industry, company, and start-up specialist. Many great ideas stop at initial stages due to lack of execution, education, or knowledge of how to run a businesses. Other businesses with expertise do not have the capability to grow because less workforce. We at SCG have met with more than a thousand companies each and gave advices. We even invested in them. We simply had skin in the game. That's way better than a 500 page report that's expired as the world economy has changed already and moved on.</div>
+        </div>
     </div>
 
 </section>
@@ -70,14 +59,8 @@
 
                         <div class="text"><strong>Synergy of Talents:</strong> We help founders of start-ups execute their ideas, turnaround businesses in niche markets, help management navigate through tough economic cycles, expand into various geographic markets, develop new business segments, and provide consulting services in fund-raising to further expand our clients’ businesses. In this fast-changing business environment, it is a must that your firm not only follows the trends but leads them.</div>
 
-                        <div class="text"><strong>What’s to come (Proactive):</strong> We are also implementing live videos/podcasts with experts in their fields so clients can have better access. In addition, we will have a Twitch channel on our site. Our blogs will be a proactive connection between consultants providing advice to our clients, but the key will be our Knowledge Center portal, which will be available to our clients.</div>
-                        <!-- <div class="text">We have a diverse group of consultants and advisors from top marketing/PR firms, investment banks, hedge funds, private equity, venture capital, consumer retail, entertainment, entrepreneurial start-ups and biotech. Together we have extensive industry knowledge and not only have experience in due diligence but also have invested in the companies ourselves. We have given large to mid-size corporations advice for over 30 years. That said, we understand that every company is different and with that mindset we solve problems and give solutions tailored to each situation.</div>
-
-                           <div class="text">We also have direct access to upper level management of multinational companies. Though this network, we are able to connect industry experts directly with our clients. And combined with our in-depth understanding of the competitive environment, we believe we can provide extreme value-added services to solve issues in today’s world.</div>    
-
-                            <div class="text">It is this unique combination of industry knowledge, upper management access, and actual investment experience which separates us from even the top consulting firms. In this competitive environment aligning yourself with the right partner could be the difference in success.</div> -->
-
-                    </div>
+                        <div class="text"><strong>What’s to Come (Proactive):</strong> We are also implementing live videos/podcasts with experts in their fields so clients can have better access. In addition, we will have a Twitch channel on our site. Our blogs will be a proactive connection between consultants providing advice to our clients, but the key will be our Knowledge Center portal, which will be available to our clients.</div>
+                                         </div>
                 </div>
             </div>
         </div>
@@ -245,10 +228,10 @@
             </div>
 
             <!-- Feature Block -->
-            <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated hidden" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeInUp;">
+            <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeInUp;">
                 <div class="inner-box">
                     <!-- <div class="icon-box"><span class="icon flaticon-success"></span></div> -->
-                    <h4><a href="#">Alternative Investment</a></h4>
+                    <h4><a href="#">Fund-Raising Support</a></h4>
                     <div class="text">There are as much if not more funds than listed stocks in the US (this includes mutual funds). Alternative investment managers are some of the brightest managers in the world. Our investment consultants have not only co-worked with investment managers but have conducted due diligence together. We understand the process like no others and with some other managers, we have kept close relationship understanding the fund process and philosophy.</div>
                     <div class="link-box"><a href="#" class="theme-btn">Read More</a></div>
                 </div>

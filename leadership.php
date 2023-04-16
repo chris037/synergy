@@ -45,7 +45,7 @@ We are also advised by Advisory Boards from CEOs of Private Equity, Venture Capi
         </div>
     </section>
     <!-- End Speakers Section -->
-    <section class="call-to-action" style="background-image: url(images/background/12.jpg);">
+    <section class="call-to-action" style="background-image: url(images/banner-3.jpg);">
         <div class="auto-container">
             <div class="content-box">
                 <div class="text">The Power of Synergy</div>
