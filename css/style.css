@@ -10464,7 +10464,7 @@ img {
 
 .header-top .social-links {
     position: relative;
-    padding: 16px 0px;
+    padding: 4px 0px;
     float: left;
 }
 
@@ -10477,7 +10477,7 @@ img {
 .header-top .social-links li a {
     position: relative;
     color: #ffffff;
-    font-size: 14px;
+    font-size: 24px;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;

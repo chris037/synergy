@@ -2,7 +2,7 @@
 
 <!-- About Us Page -->
 <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/banner-contacts.jpg);">
+    <section class="page-title" style="background-image:url(images/banner-3.jpg);">
             <div class="auto-container">
             
             </div>

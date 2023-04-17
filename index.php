@@ -132,7 +132,7 @@
 
         <div class="row">
             <!-- Feature Block -->
-            <div class="feature-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+            <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
                 <img src="images/transnational/5.jpg" alt="Hands-on Consulting" />
                 <div class="inner-box">
 
@@ -141,20 +141,8 @@
                     <!-- <div class="link-box"><a href="#" class="theme-btn">Read More</a></div> -->
                 </div>
             </div>
-
             <!-- Feature Block -->
-            <div class="feature-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms; animation-name: fadeInUp;">
-                <img src="images/transnational/6.jpg" alt="E-Commerce and Digital Consulting" />
-                <div class="inner-box">
-
-                    <h4><a href="#">E-Commerce and Digital Consulting</a></h4>
-                    <div class="text">In the digital world, e-commerce/digitalization have made conducting businesses faster, information more accessible and reach wider audience. While there are initial learning curves, we help navigate through these challenges so that our clients can improve communication across nations, clients and vendors. </div>
-                    <!-- <div class="link-box"><a href="#" class="theme-btn">Read More</a></div> -->
-                </div>
-            </div>
-
-            <!-- Feature Block -->
-            <div class="feature-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeInUp;">
+            <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeInUp;">
                 <img src="images/transnational/3.jpg" alt="Business Growth and Management" />
                 <div class="inner-box">
 
@@ -163,8 +151,29 @@
                     <!-- <div class="link-box"><a href="#" class="theme-btn">Read More</a></div> -->
                 </div>
             </div>
+                
+            <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeInUp;">
+                <img src="images/transnational/8.jpg" alt="Brand Marketing" />
+                <div class="inner-box">
+
+                    <h4><a href="#">Fund Raising</a></h4>
+                    <div class="text">There are as much if not more funds than listed stocks in the US (this includes mutual funds). Alternative investment managers are some of the brightest managers in the world. Our investment consultants have not only co-worked with investment managers but have conducted due diligence together. We understand the process like no others and with some other managers, we have kept close relationship understanding the fund process and philosophy.</div>
+                    <!-- <div class="link-box"><a href="#" class="theme-btn">Read More</a></div> -->
+                </div>
+            </div>
             <!-- Feature Block -->
-            <div class="feature-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeInUp;">
+            <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms; animation-name: fadeInUp;">
+                <img src="images/transnational/7.jpg" alt="E-Commerce and Digital Consulting" />
+                <div class="inner-box">
+                    <h4><a href="#">E-Commerce and Digital Consulting</a></h4>
+                    <div class="text">In the digital world, e-commerce/digitalization have made conducting businesses faster, information more accessible and reach wider audience. While there are initial learning curves, we help navigate through these challenges so that our clients can improve communication across nations, clients and vendors. </div>
+                    <!-- <div class="link-box"><a href="#" class="theme-btn">Read More</a></div> -->
+                </div>
+            </div>
+
+
+            <!-- Feature Block -->
+            <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeInUp;">
                 <img src="images/transnational/4.jpg" alt="B2B / B2C Connections" />
                 <div class="inner-box">
 
@@ -173,7 +182,23 @@
                     <!-- <div class="link-box"><a href="#" class="theme-btn">Read More</a></div> -->
                 </div>
             </div>
+
+            <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeInUp;">
+                <img src="images/transnational/6.jpg" alt="Brand Marketing" />
+                <div class="inner-box">
+
+                    <h4><a href="#">Brand Marketing</a></h4>
+                    <div class="text">High-end marketing is a specialized approach that focuses on promoting luxury or premium brands to affluent or discerning customers. This involves creating a distinctive brand image, positioning the brand as exclusive, and appealing to the emotions and aspirations of the target audience. Key elements of high-end marketing include brand identity, brand positioning, compelling brand narratives, personalized customer experiences, and strategic selection of marketing channels. Deep understanding of the luxury market, strategic thinking, creativity, and the ability to develop tailored marketing strategies that align with the unique characteristics of high-end brands and their target audience are essential. The ultimate goal of high-end marketing is to generate brand awareness, foster customer loyalty, and drive business growth in the competitive luxury market.</div>
+                    <!-- <div class="link-box"><a href="#" class="theme-btn">Read More</a></div> -->
+                </div>
+            </div>
+
+
         </div>
+    </div>
+
+
+
     </div>
 </section>
 
@@ -238,7 +263,7 @@
             </div>
 
             <!-- Feature Block -->
-            <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeInUp;">
+            <div class="hidden feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeInUp;">
                 <div class="inner-box">
                     <!-- <div class="icon-box"><span class="icon flaticon-success"></span></div> -->
                     <h4><a href="#">Fund-Raising Support</a></h4>
