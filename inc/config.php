@@ -87,10 +87,18 @@ $leaders = array(
     ),
     array(
         "name" => "Chryssa (Cat) Rellos",
-        "designation" => "Senior Advisor ",
+        "designation" => "Junior Advisor ",
         "image" => "images/resource/chryssa.jpg",
         "email" => "",
         "bio" => "Currently a senior at Loyola Marymount University to acquire her bachelor’s degree in Entrepreneurship, Chryssa Rellos is a junior consultant specializing in media, podcasts, and streaming. She is experienced with technology and well informed on current media trends. She enjoys streaming on Twitch in her free time, which developed her skills for entertaining an audience and communicating with others."
+    ),
+    array(
+        "name" => "Reyna Hinojosa",
+        "designation" => "Junior Advisor ",
+        "image" => "images/resource/reyna.jpg",
+        "email" => "",
+        "bio" => "Ms. Hinojosa has studied alongside bright minds in Santa Barbara, expanding her knowledge
+        on societal development, structure, and function. She has experience in the medical field working alongside first responders throughout Covid-19, and is coming from a background of Aerospace NDT where she was an integral part of operations."
     )
    
 
