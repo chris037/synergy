@@ -27,7 +27,7 @@
 
     <!-- Stylesheets -->
     <link href="css/bootstrap.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://xpresswebsolution.com/synergy/css/style-min.css">
+    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/fontawesome-all.css">
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/elegent-icon.css">
@@ -125,7 +125,8 @@
                                     <li class="<?php if ($current_page == 'podcast.php') echo 'current'; ?>"><a href="podcast.php">Podcast</a></li>
                                    
                                     <li class="<?php if ($current_page == 'contacts.php') echo 'current'; ?>"><a href="contacts.php">Contacts</a></li>
-                                    <li style="padding-top: 28px;"><img width="100" src="images/contact-banner-small.png"/></li>
+                                    <li class="dekstop-only" style="border-bottom: none;"><a href="contacts.php"><img width="100" src="images/contact-banner-small.svg"/></a></li>
+                                  
                                 </ul>
                             </div>
                         </nav>

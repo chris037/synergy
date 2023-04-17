@@ -7,7 +7,7 @@
     <div class="auto-container">
         <div class="content-box">
             <h2>Welcome to Synergy Consulting Group (SCG)</h2>
-            <div class="text desktop-only">Our services include consulting in many sectors by industry, company, and start-up specialist. Many great ideas stop at initial stages due to lack of execution, education, or knowledge of how to run a businesses. Other businesses with expertise do not have the capability to grow because less workforce. We at SCG have met with more than a thousand companies each and gave advices. We even invested in them. We simply had skin in the game. That's way better than a 500 page report that's expired as the world economy has changed already and moved on.</div>
+            <div class="text desktop-only">Our services include consulting in many sectors by industry, company, and start-up specialist. Many great ideas stop at initial stages due to lack of execution, education, or knowledge of how to run a businesses. Other businesses with expertise do not have the capability to grow because less workforce. We at SCG have met with more than a thousand companies each and gave advices. We even invested in them. We simply had skin in the game.</div>
         </div>
     </div>
 
@@ -16,7 +16,7 @@
     <div class="auto-container">
         <div class="row">
             <div class="content-column col-lg-12 col-md-12 col-sm-12">
-                <div class="text">Our services include consulting in many sectors by industry, company, and start-up specialist. Many great ideas stop at initial stages due to lack of execution, education, or knowledge of how to run a businesses. Other businesses with expertise do not have the capability to grow because less workforce. We at SCG have met with more than a thousand companies each and gave advices. We even invested in them. We simply had skin in the game. That's way better than a 500 page report that's expired as the world economy has changed already and moved on.</div>
+                <div class="text">Our services include consulting in many sectors by industry, company, and start-up specialist. Many great ideas stop at initial stages due to lack of execution, education, or knowledge of how to run a businesses. Other businesses with expertise do not have the capability to grow because less workforce. We at SCG have met with more than a thousand companies each and gave advices. We even invested in them. We simply had skin in the game.</div>
             </div>
 
         </div>

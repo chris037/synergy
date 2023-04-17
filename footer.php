@@ -141,7 +141,7 @@
 <script src="js/appear.js"></script>
 <script src="js/owl.js"></script>
 <script src="js/wow.js"></script>
-<script src="https://xpresswebsolution.com/synergy/js/script-min.js"></script>
+<script src="js/script-min.js"></script>
 <!-- Color Setting -->
 <script src="js/color-settings.js"></script>
 <script>

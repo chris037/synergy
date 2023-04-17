@@ -11507,7 +11507,7 @@ h2.home-quote {
     /* border: 1px solid #000;
     background: #FFF; */
     background: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.8));
-    padding: 120px 120px;
+    padding: 120px 120px 32px;
 
 }
 
@@ -11553,6 +11553,10 @@ h2.home-quote {
     width: 200px;
 }
 
+.main-menu .navigation>li:last-child>a:before {
+    border: none;
+    background: none;
+  }
 @media (max-width: 768px) {
 
     /* show mobile-only div and hide desktop-only div on screens with a maximum width of 768px */
