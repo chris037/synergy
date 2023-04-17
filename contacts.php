@@ -4,7 +4,7 @@
 <!--Page Title-->
     <section class="page-title" style="background-image:url(images/banner-3.jpg);">
             <div class="auto-container">
-            
+                <div class="contact-banner-small"><img src="images/contact-banner-small.jpg"/></div>
             </div>
         </section>
     <!--End Page Title-->

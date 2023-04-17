@@ -11542,6 +11542,17 @@ h2.home-quote {
     /* show by default */
 }
 
+.contact-banner-small {
+    position: absolute;
+    top: 30px;
+    right: 0;
+    display: flex;
+}
+
+.contact-banner-small img{
+    width: 200px;
+}
+
 @media (max-width: 768px) {
 
     /* show mobile-only div and hide desktop-only div on screens with a maximum width of 768px */
