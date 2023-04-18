@@ -14,7 +14,7 @@
                                     <a href="index.html"><img src="images/logo.png" alt="" /></a>
                                 </div>
                                 <div class="text">
-                                    <p>We help clients growth thru hands-on consulting services, deep down industry research and effective marketing and ad campaign from start to finish.</p>
+                                    <p>We help clients grow through hands-on consulting services, deep down industry research, and effective advising, from start to finish.</p>
                                 </div>
                                 <ul class="social-icon-one social-icon-colored">
                                     <li><a target="_blank" href="https://www.facebook.com/synergyinvllc/"><i class="fab fa-facebook-f"></i></a></li>
