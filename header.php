@@ -68,7 +68,7 @@
 			<div class="auto-container">
 				<div class="clearfix">
 
-                <h2 class="home-quote wow fadeIn">"Synergy is what happens when one plus one equals ten or a hundred or even a thousand!" - Steven Covey</h2>
+                
 
 					<div class="pull-right">
 						

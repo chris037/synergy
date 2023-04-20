@@ -87,6 +87,7 @@
 
                                         <li>
                                             <span class="icon flaticon-phone"></span>
+                                            <div class="text"><a href="tel:(707) 414-6221">Call us (707) 414-6221</a></div>
                                             <div class="text"><a href="tel:+1-310-430-6503">LA: +1 310 469 4299</a></div>
                                             <div class="text"><a href="tel:+1-310-430-6503">NY: +1 212 518 1456</a></div>
                                           

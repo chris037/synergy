@@ -5,9 +5,10 @@
 
 <section class="page-title section-main">
     <div class="auto-container">
+        <h1 class="home-quote wow fadeIn">"Synergy is what happens when one plus one equals ten or a hundred or even a thousand!" - Steven Covey</h1>
         <div class="content-box">
             <h2>Welcome to Synergy Consulting Group (SCG)</h2>
-            <div class="text desktop-only">Our services include consulting in many sectors by industry, company, and start-up specialist. Many great ideas stop at initial stages due to lack of execution, education, or knowledge of how to run a businesses. Other businesses with expertise do not have the capability to grow because less workforce. We at SCG have met with more than a thousand companies each and gave advices. We even invested in them. We simply had skin in the game.</div>
+            <div class="text desktop-only">Our services include consulting in many sectors by industry, company, and start-up specialty. Many great ideas stop at initial stages due to lack of execution, education, or knowledge. Some businesses with expertise do not have the capability to grow because of inadequate workforce. We at SCG have met with thousands of companies and have advised them and have invested in them. We have skin in the game.</div>
         </div>
     </div>
 
@@ -66,8 +67,7 @@
                     <div class="sec-title">
                         <div class="text"><strong>Key Difference is Our People:</strong> Synergy Consulting Group (SCG) is not your average management consulting firm. Our consultants are composed of top-performing buyside portfolio managers, sell-side analysts, private investors, Chief Medical Officers, successful business owners, and high-end brand marketing experts with real-world experience. We have invested our own assets in the companies we advise. That’s skin in the game. We are not afraid to give our clients objective advice.</div>
 
-
-                        <div class="text"><strong>Synergy of Talents:</strong>Synergy Consulting Group (SCG) is not your average management consulting firm. Our consultants are composed of top-performing buyside portfolio managers, sell-side analysts, private investors, Chief Medical Officers, successful business owners, and high-end brand marketing experts with real-world experience. We have invested our own assets in the companies we advise. That’s skin in the game. We are not afraid to give our clients objective advice.</div>
+                        <div class="text"><strong>Synergy of Talents:</strong> We help founders and leaders execute their ideas, turnaround businesses in niche markets, advise management to navigate through tough economic cycles, expand into various geographic markets, develop new business segments, and provide services for fund-raising to further expand their businesses. In this fast-changing business environment, it is necessary that your firm not only follows the trends but leads them.</div>
 
                         <div class="text"><strong>What’s to Come:</strong> We are implementing live videos and podcasts with experts in their fields, so our clients will have better access. In addition, we will have a Twitch channel on our site. Our blogs will be a proactive connection between consultants providing advice to our clients, but the key will be our Knowledge Center portal, which will be available to our clients.</div>
                     </div>
@@ -106,7 +106,7 @@
                     array("consumer.png", "Consumer / E-commerce"),
                     array("food.png", "Restaurant / Food and Beverage"),
                     array("industrials.png", "Industrials and Infrastructure"),
-                    array("real-estate.png", "Real Estate Property"),
+                    array("real-estate.png", "Real Estate and Property"),
                     array("b2bb2c.png", "B2B / B2C Consulting"),
                     array("funds.png", "Fund Raising / Creative Sourcing Deals")
                 );
@@ -129,10 +129,7 @@
 </section>
 <section class="features-section">
     <div class="auto-container">
-    <div class="sec-title text-center">
-            <h2>Real Estate and Property
-            </h2>
-        </div>
+
         <div class="row">
             <!-- Feature Block -->
             <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
@@ -154,7 +151,7 @@
                     <!-- <div class="link-box"><a href="#" class="theme-btn">Read More</a></div> -->
                 </div>
             </div>
-                
+
             <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeInUp;">
                 <img src="images/transnational/8.jpg" alt="Brand Marketing" />
                 <div class="inner-box">
@@ -208,7 +205,7 @@
 
 
 
-<section class="features-section">
+<section class="features-section section-whatwedo" style="background-image: url(images/banner-whatwedo.jpg); background-size: contain;">
     <div class="auto-container">
         <div class="sec-title text-center">
             <h2>What We Do
@@ -227,14 +224,16 @@
             </div>
 
             <!-- Feature Block -->
-            <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms; animation-name: fadeInUp;">
+            <div class="feature-block feature-block-border col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
                 <div class="inner-box">
-                    <!-- <div class="icon-box"><span class="icon flaticon-diamond-1"></span></div> -->
-                    <h4><a href="#">Deep Dive Research</a></h4>
-                    <div class="text">Deep dive research from our consultants not only provides industry research, but we also thoroughly understand the vision and philosophy of our clients. Our consultants strive to maintain deep relationships with our clients and other companies in the industry. </div>
+                    <!-- <div class="icon-box"><span class="icon flaticon-search"></span></div> -->
+                    <h4><a href="#">Real Estate and New World Infrastructure</a></h4>
+                    <div class="text">Real estate is usually one of the most valuable assets a household buys. People must take various factors into account, not just simple mortgage rates and home prices. Infrastructure is usually a government project to make the city modernized. As a fund that invests into infrastructure, you get a steady return that is a relatively safe asset. We are making roads into the future so that it is comfortable and sustainable. To make these tough choices, SCG provides advice so that you will have a better world tomorrow.</div>
                     <div class="link-box"><a href="#" class="theme-btn">Read More</a></div>
                 </div>
             </div>
+
+
 
             <!-- Feature Block -->
             <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeInUp;">
@@ -249,7 +248,7 @@
             <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
                 <div class="inner-box">
                     <!-- <div class="icon-box"><span class="icon flaticon-search"></span></div> -->
-                    <h4><a href="#">Marketing </a></h4>
+                    <h4><a href="#">Brand Marketing & Ads</a></h4>
                     <div class="text">Every client is different in their culture and needs. Our marketing & ad campaigns use all the technology available to build a strong foundation to grow and compete. We combine client understanding with market awareness to provide the optimum strategy for sustained growth.</div>
                     <div class="link-box"><a href="#" class="theme-btn">Read More</a></div>
                 </div>
@@ -274,9 +273,17 @@
                     <div class="link-box"><a href="#" class="theme-btn">Read More</a></div>
                 </div>
             </div>
+
+            <!-- Feature Block -->
+            <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms; animation-name: fadeInUp;">
+                <div class="inner-box">
+                    <!-- <div class="icon-box"><span class="icon flaticon-diamond-1"></span></div> -->
+                    <h4><a href="#">Deep Dive Research</a></h4>
+                    <div class="text">Deep dive research from our consultants not only provides industry research, but we also thoroughly understand the vision and philosophy of our clients. Our consultants strive to maintain deep relationships with our clients and other companies in the industry. </div>
+                    <div class="link-box"><a href="#" class="theme-btn">Read More</a></div>
+                </div>
+            </div>
         </div>
-
-
 
     </div>
 </section>

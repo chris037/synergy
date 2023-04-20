@@ -10441,6 +10441,7 @@ img {
     -o-transition: all 600ms ease;
     -moz-transition: all 600ms ease;
     transition: all 600ms ease;
+    padding: 8px 0;
 }
 
 .header-top .top-left {
@@ -10477,7 +10478,7 @@ img {
 .header-top .social-links li a {
     position: relative;
     color: #ffffff;
-    font-size: 24px;
+    font-size: 30px;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
@@ -11499,6 +11500,7 @@ h2.home-quote {
     background-size: cover;
     min-height: 90vh;
     position: relative;
+    padding: 70px 0 120px;
 }
 
 .section-main .content-box {
@@ -11559,6 +11561,34 @@ h2.home-quote {
     border: none;
     background: none;
   }
+
+.feature-block-border .inner-box{
+    border: 10px solid #f7fa32;
+
+}
+
+.esg-container h4 {
+    font-size: 18px;
+    text-align: center;
+    padding-bottom: 16px;
+    color: #333;
+    font-weight: 500;
+}
+.mb8{
+    margin-bottom: 8px;
+}
+.mb16{
+    margin-bottom: 16px;
+}
+
+h1.home-quote {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.section-whatwedo h2{
+    color: #EEE;
+}
 @media (max-width: 768px) {
 
     /* show mobile-only div and hide desktop-only div on screens with a maximum width of 768px */

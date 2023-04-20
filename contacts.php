@@ -29,6 +29,7 @@
                             <li>
                                 <span class="icon fa fa-phone-volume"></span>
                                 <p><strong>Call Us</strong></p>
+                                <p>Call us (707) 414-6221</p>
                                 <p>LA: +1 310 469 4299</p>
                                 <p>NY: +1 212 518 1456</p>
                                
