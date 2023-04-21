@@ -5,7 +5,7 @@ $leaders = array(
         "name" => "John Lee",
         "designation" => "CEO, Founder / Consultant",
         "image" => "images/resource/john.jpg", 
-        "email" => "John.lee@synergyinvllc.com",
+        "email" => "john.lee@synergyinvllc.com",
         "bio" => "Mr. Lee graduated from UCLA and has worked as a trader for Wilshire Asset Management, an institutional consultant at Verus Investments evaluating mutual funds & alternatives, and a Fund of Funds Portfolio Manager at Samsung Trust. He later relocated to Asia to work as the Head of Institutional Equity Sales at HSBC, servicing global mutual funds and hedge funds. He has ranked #1 on Asiamoney magazine as the best salesperson four times during his tenure. Currently, he serves as the CEO of ABTS, a biotech company developing cancer and COVID-19 drugs, and launched SYNERGY."
     ),
     array(
@@ -52,14 +52,14 @@ $leaders = array(
         "name" => "Maria Kim, DDS ",
         "designation" => "Senior Advisor / Business Owner",
         "image" => "images/resource/leader-1.jpg",
-        "email" => "",
+        "email" => "maria.kim@synergyinvllc.com",
         "bio" => "Mrs. Kim is a dentist and a beauty expert. She is an owner of two successful dentistry office and has license in solid knowledge in botox for some of the most famous celebrities. She has the training to do complex dental implant work and a business a solid business mindset and creative ways to make patients look better through her extensive training and experience. She also graduated from UCLA and Loyola Dental School. She advises on most business matters for mid-size companies. "
     ),
     array(
         "name" => "Alison Yip",
         "designation" => "Senior Advisor / Tech Specialist",
         "image" => "images/resource/alison.jpg",
-        "email" => "",
+        "email" => "alison.yip@synergyinvllc.com",
         "bio" => "Ms. Alison Yip has over 20 years of investment experience in the technology sector. Before joining our advisory board, she was a core member of the Global Technology Team at T. Rowe Price, covering the Asian technology sector. Her expertise includes hunting for outliers and investing in deep cyclicals. Alison holds an MBA degree from the University of Nottingham, UK."
     ),
     
@@ -67,7 +67,7 @@ $leaders = array(
         "name" => "Gene Ryang",
         "designation" => "Senior Advisor",
         "image" => "images/resource/gene.jpg",
-        "email" => "",
+        "email" => "gene.ryang@synergyinvllc.com",
         "bio" => "Mr. Ryang is a pioneer in the equity market industry in Asia from Hong Kong, Singapore to Korea. He has started his career at WI Carr, HSBC, Deutch Bank, where he was a partner, and he sold his stake and has been and Executive Managing Director for Daewoo Securities responsible for the build out of their multiple divisions and mentoring junior bankers for decades. Later he ran his own private equity and venture fund. "
     ),
 
@@ -82,26 +82,25 @@ $leaders = array(
         "name" => "Dr. Kamal Khalil MD MBA",
         "designation" => "Senior Advisor",
         "image" => "images/resource/khalil.jpg",
-        "email" => "",
+        "email" => "kamal.khalil@synergyinvllc.com",
         "bio" => "Dr. Khalil has more than 15 years’ experience in healthcare and biotech. Establishing himself within healthcare and biotechnology, he has led numerous research initiatives within basic science, clinical research, and health equity. His diverse experience has allowed him to develop within various sectors within both industries as well as managing to develop the business development and scientific output for leading entities. Coinciding within his professional career, Dr Khalil has also managed to be a consistent lecturer, adjunct faculty member teaching various sciences, and completing a Master of Business, specializing within the business of medicine."
     ),
     array(
         "name" => "Chryssa (Cat) Rellos",
         "designation" => "Junior Consultant",
         "image" => "images/resource/chryssa.jpg",
-        "email" => "",
+        "email" => "chryssa.rellos@synergyinvllc.com",
         "bio" => "Currently a senior at Loyola Marymount University to acquire her bachelor’s degree in Entrepreneurship, Chryssa Rellos is a junior consultant specializing in media, podcasts, and streaming. She is experienced with technology and well informed on current media trends. She enjoys streaming on Twitch in her free time, which developed her skills for entertaining an audience and communicating with others."
     ),
     array(
         "name" => "Reyna Hinojosa",
         "designation" => "Junior Consultant",
         "image" => "images/resource/reyna.jpg",
-        "email" => "",
+        "email" => "reyna.hinojosa@synergyinvllc.com",
         "bio" => "Ms. Hinojosa has studied alongside bright minds in Santa Barbara, expanding her knowledge
         on societal development, structure, and function. She has experience in the medical field working alongside first responders throughout Covid-19, and is coming from a background of Aerospace NDT where she was an integral part of operations."
     )
-   
-
 );
+
 
 ?>
