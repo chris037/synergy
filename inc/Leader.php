@@ -65,6 +65,7 @@ class Leader {
         $html .= '</div>';
         $html .= '<div class="image-box">';
         $html .= '<figure class="image"><a href="#"><img src="' . $this->image . '" alt=""></a></figure>';
+        $html .= '<img class="image-email" src="images/email-icon.jpg"/>';
         $html .= '<p class="email" style="padding-top: 16px; font-size: 16px;">' . $this->email . '</p>';
         $html .= '</div>';
         $html .= '</div>';
