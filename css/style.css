@@ -11624,17 +11624,26 @@ h1.home-quote {
     }
 
     .section-main h2 {
-        font-size: 52px;
+        font-size: 39px;
         font-weight: 700;
-        padding: 36px;
-        line-height: 4rem;
-        margin-bottom: 3rem;
+        padding: 11px;
+        line-height: 3rem;
+        margin-bottom: 2rem;
     }
     .section-main-mobile{
         padding: 16px;
     }
     .section-main-mobile .text{
         color: #EEE;
+    }
+
+   
+    .page-title.section-main {
+        padding: 107px 0;
+    }
+    .page-title h1.home-quote {
+        font-size: 17px;
+        margin-bottom: 10px;
     }
 
 }
