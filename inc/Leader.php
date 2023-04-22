@@ -61,10 +61,11 @@ class Leader {
         $html .= '<h4 class="name"><a href="#">' . $this->name . '</a></h4>';
         $html .= '<span class="designation">' . $this->designation . '</span>';
         $html .= '<p class="bio hidden">' . $this->bio. '</p>';
-        $html .= '<p class="email hidden">' . $this->email . '</p>';
+       
         $html .= '</div>';
         $html .= '<div class="image-box">';
         $html .= '<figure class="image"><a href="#"><img src="' . $this->image . '" alt=""></a></figure>';
+        $html .= '<p class="email" style="padding-top: 16px; font-size: 16px;">' . $this->email . '</p>';
         $html .= '</div>';
         $html .= '</div>';
         $html .= '</div>';
