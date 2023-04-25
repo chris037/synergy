@@ -65,7 +65,7 @@
             <div class="content-column col-lg-12 col-md-12 col-sm-12 mb0">
                 <div class="inner-columnx">
                     <div class="sec-title">
-                        <div class="text"><strong>Key Difference is Our People:</strong> Synergy Consulting Group (SCG) is not your average management consulting firm. Our consultants are composed of top-performing buyside portfolio managers, sell-side analysts, private investors, Chief Medical Officers, successful business owners, and high-end brand marketing experts with real-world experience. We have invested our own assets in the companies we advise. That’s skin in the game. We are not afraid to give our clients objective advice.</div>
+                        <div class="text"><strong>The Key is Our People:</strong> Synergy Consulting Group (SCG) is not your average management consulting firm. Our consultants are composed of top-performing buyside portfolio managers, sell-side analysts, private investors, Chief Medical Officers, successful business owners, and high-end brand marketing experts with real-world experience. We have invested our own assets in the companies we advise. That’s skin in the game. We are not afraid to give our clients objective advice.</div>
 
                         <div class="text"><strong>Synergy of Talents:</strong> We help founders and leaders execute their ideas, turnaround businesses in niche markets, advise management to navigate through tough economic cycles, expand into various geographic markets, develop new business segments, and provide services for fund-raising to further expand their businesses. In this fast-changing business environment, it is necessary that your firm not only follows the trends but leads them.</div>
 
@@ -217,7 +217,7 @@
             <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
                 <div class="inner-box">
                     <!-- <div class="icon-box"><span class="icon flaticon-search"></span></div> -->
-                    <h4><a href="#">Business Industry Consultant</a></h4>
+                    <h4><a href="#">Business Industry Consulting</a></h4>
                     <div class="text">Every one of our consultants are industry experts in Biotech, Marketing, Investment Strategy, Banking, Private Equity, Food & Beverage, Manufacturing, Infrastructure, Real Estate, and Sourcing. We take upmost pride in what our clients want to establish.</div>
                     <div class="link-box"><a href="#" class="theme-btn">Read More</a></div>
                 </div>
@@ -228,12 +228,10 @@
                 <div class="inner-box">
                     <!-- <div class="icon-box"><span class="icon flaticon-search"></span></div> -->
                     <h4><a href="#">Real Estate and New World Infrastructure</a></h4>
-                    <div class="text">Real estate is usually one of the most valuable assets a household buys. People must take various factors into account, not just simple mortgage rates and home prices. Infrastructure is usually a government project to make the city modernized. As a fund that invests into infrastructure, you get a steady return that is a relatively safe asset. We are making roads into the future so that it is comfortable and sustainable. To make these tough choices, SCG provides advice so that you will have a better world tomorrow.</div>
+                    <div class="text">Real estate is usually one of the most valuable assets. Many factors must be taken into account, not just lending rates and prices. Our Real Estate Funds optimize this asset class. Infrastructure funding is usually for a municipal project to modernize or repair infrastructure. Our Infrastructure Funds invest to get a steady return that is a relatively safe asset. We are making inroads into the future to create sustainable development and renovation. We advise our clients in both Real Estate and Infrastructure funding to generate capital and produce a better world for tomorrow.</div>
                     <div class="link-box"><a href="#" class="theme-btn">Read More</a></div>
                 </div>
             </div>
-
-
 
             <!-- Feature Block -->
             <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeInUp;">
