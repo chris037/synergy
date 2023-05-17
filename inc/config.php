@@ -4,7 +4,7 @@ $leaders = array(
     array(
         "name" => "John Lee",
         "designation" => "CEO, Founder / Consultant",
-        "image" => "images/resource/john.jpg", 
+        "image" => "images/resource/leader-1.jpg",
         "email" => "john.lee@synergyinvllc.com",
         "bio" => "Mr. Lee graduated from UCLA and has worked as a trader for Wilshire Asset Management, an institutional consultant at Verus Investments evaluating mutual funds & alternatives, and a Fund of Funds Portfolio Manager at Samsung Trust. He later relocated to Asia to work as the Head of Institutional Equity Sales at HSBC, servicing global mutual funds and hedge funds. He has ranked #1 on Asiamoney magazine as the best salesperson four times during his tenure. Currently, he serves as the CEO of ABTS, a biotech company developing cancer and COVID-19 drugs, and launched SYNERGY."
     ),
@@ -20,7 +20,7 @@ $leaders = array(
         "designation" => "Head of Marketing & Ad | Consumer | High-end Fashion",
         "image" => "images/resource/leader-1.jpg",
         "email" => "najung.kim@synergyinvllc.com",
-        "bio" => "Ms. Kim has started her career in marketing to one of the top companies in the world such as Bottega Vetteta, Samsung, BMW, Head of Marketing for Adidas. She is also an expert in e-commerce and founded the Korean division of Suit Supply a Netherland Company. She also as expertise in brand marketing and is working on numerous cosmetic companies. "
+        "bio" => "Ms. Kim has started her career in marketing to one of the top companies in the world such as Bottega Veneta, Samsung, BMW, and Head of Marketing for Adidas. She is also an expert in e-commerce and founded the Korean division of Suit Supply a Netherland Company. Her expertise is in brand marketing and is working with numerous cosmetic companies."
     ),
     // array(
     //     "name" => "Henry Woo",

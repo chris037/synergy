@@ -19,12 +19,12 @@
                             <h2>Contact Info</h2>
                         </div>
                         <ul class="contact-info">
-                            <li>
+                            <!-- <li>
                                 <span class="icon fa fa-map-marker-alt"></span>
                                 <p><strong> 600 W Commonwealth Ave, Suite 146</strong></p>
                                 <p>Los Angeles CA, 92832</p>
                                 
-                            </li>
+                            </li> -->
 
                             <li>
                                 <span class="icon fa fa-phone-volume"></span>
@@ -35,11 +35,11 @@
                                
                             </li>
 
-                            <li>
+                            <!-- <li>
                                 <span class="icon fa fa-envelope"></span>
                                 <p><strong>Mail Us</strong></p>
                                 <p><a href="mailto:info@synergyinvllc.com">info@synergyinvllc.com</a></p>
-                            </li>
+                            </li> -->
 
                             
                         </ul>
